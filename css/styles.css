@@ -1,0 +1,252 @@
+﻿body {
+	margin-top: 8px;
+	font-family: Arial, Helvetica, Verdana;
+	color: #282828;
+}
+
+a, a:visited {
+	margin: 0px;
+	padding: 0px;
+	color: #282828;
+	text-decoration: none;
+}
+
+p {
+	font-size: 13px;
+	margin-bottom: 15px;
+	line-height: 18px;
+}
+
+#container {
+	width: 944px;
+	background-color: white;
+	margin: auto;
+}
+
+#topbar {
+	padding: 8px 0 13px 0;
+	text-align: right;
+	font-size: 12px;
+}
+
+#menu {
+	background-image: url(../image/menu_bg.gif);
+	background-repeat: no-repeat;
+	padding: 8px 0 0 0;
+	height: 21px;
+	margin-top: 10px;
+}
+
+#menu ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu li {
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	display: inline;
+}
+
+#menu li a {
+	display: block;
+	float: left;
+}
+
+#content {
+	margin-top: 10px;
+}
+
+.borderMain {
+	border: solid 10px #e5e5e5;
+}
+
+#aboutBox {
+	background-image: url(../image/about_box.jpg);
+	background-repeat: no-repeat;
+	width: 410px;
+	height: 224px;
+	float: left;
+	padding: 84px 23px 0 23px;
+}
+
+#aboutBox p {
+	text-align: justify;
+	font-size: 14px;
+}
+
+#videoBox {
+	background-image: url(../image/video_box.jpg);
+	background-repeat: no-repeat;
+	width: 391px;
+	height: 244px;
+	float: right;
+	padding: 64px 0 0 23px;
+}
+
+#footer {
+	padding-top: 20px;
+	font-size: 11px;
+	text-align: center;
+}
+
+.rssIcon {
+	background-image: url(../image/rss.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	float: left;
+	width: 30px;
+	height: 18px;
+}
+
+#imgBox {
+	width: 458px;
+	height: 244px;
+	float: right;
+}
+
+#aboutusBox {
+	background-image: url(../image/aboutus_box.jpg);
+	background-repeat: no-repeat;
+	width: 410px;
+	height: 204px;
+	float: left;
+	padding: 84px 23px 0 23px;
+}
+
+#aboutusBox p {
+	text-align: justify;
+	font-size: 14px;
+}
+
+#civilBox {
+	background-image: url(../image/civil_box.jpg);
+	background-repeat: no-repeat;
+	width: 898px;
+	height: 93px;
+	float: left;
+	padding: 64px 23px 0 23px;
+}
+
+#civilBox p {
+	text-align: justify;
+	font-size: 14px;
+}
+
+#churchBox {
+	background-image: url(../image/church_box.jpg);
+	background-repeat: no-repeat;
+	width: 898px;
+	height: 93px;
+	float: left;
+	padding: 64px 23px 0 23px;
+}
+
+#churchBox p {
+	text-align: justify;
+	font-size: 14px;
+}
+
+.caption {
+	font-size: 12px;
+	text-align: center;
+	padding: 5px;
+	border: solid 1px #e5e5e5;
+}
+
+.table td {
+	font-size: 12px;
+	padding: 5px;
+	border-bottom: solid 1px #e5e5e5;
+}
+
+.table {
+	margin-left: 20px;
+}
+
+.testimonialsTable td {
+	font-size: 12px;
+	padding: 10px;
+	border-bottom: solid 1px #e5e5e5;
+}
+
+h1 {
+	margin-bottom: 10px;
+}
+
+#testimonialsBox {
+	background-image: url(../image/testimonials_box.jpg);
+	background-repeat: no-repeat;
+	width: 898px;
+	height: 65px;
+	float: left;
+	padding: 64px 23px 0 23px;
+}
+
+#testimonialsBox p {
+	text-align: justify;
+	font-size: 14px;
+}
+
+.rightBorder {
+	border-right: solid 1px #e5e5e5;
+}
+
+#testimonials {
+	padding-top: 10px;
+}
+
+#contactBox {
+	background-image: url(../image/contact_box.jpg);
+	background-repeat: no-repeat;
+	width: 410px;
+	height: 224px;
+	float: left;
+	padding: 64px 23px 0 23px;
+}
+
+#contactBox p {
+	text-align: justify;
+	font-size: 14px;
+}
+
+#enquiryBox {
+	background-image: url(../image/enquiry_box.jpg);
+	background-repeat: no-repeat;
+	width: 898px;
+	height: 118px;
+	float: left;
+	padding: 64px 23px 0 23px;
+}
+
+#enquiryBox p {
+	text-align: justify;
+	font-size: 14px;
+}
+
+td.padding {
+	padding: 5px;
+}
+
+.center {
+	margin: auto;
+}
+
+img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input, textarea {
+	font-size:12px
+}
+
+.post-title {
+	display: none;
+}
+
+#btnSubmit {
+	cursor: pointer;
+}
